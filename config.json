@@ -9,7 +9,8 @@
       "clients": [
         {
           "id": "your_uuid",
-          "alterId": 64
+          "alterId": 64,
+          "security": "aes-128-cfb"
         }
       ]
     },
